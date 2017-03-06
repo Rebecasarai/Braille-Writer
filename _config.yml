@@ -6,7 +6,7 @@ title: Braille Writer
 description: |
   The Braille Writer, the future of inclusion.
 owner: The Braille Writer # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
+first_published: 2017 # if migrating another site, the year of your first publish
 email: becahere@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rebecasarai.github.io/Braille-Writer" # the base hostname & protocol for your site
