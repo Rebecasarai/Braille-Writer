@@ -211,6 +211,10 @@ $baseurl: '{{ site.baseurl }}/images';
 
 /* Section/Article */
 
+  	#one {
+		font-family: _font(familyy);
+	}
+
 	section, article {
 		&.special {
 			text-align: center;
