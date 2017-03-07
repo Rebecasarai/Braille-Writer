@@ -49,6 +49,10 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
+	footer{
+		padding: 3em 0 2em 0;
+	}
+
 	body, input, select, textarea {
 		color: _palette(fg);
 		font-family: _font(family);
